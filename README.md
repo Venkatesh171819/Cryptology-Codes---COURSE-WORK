@@ -1,6 +1,4 @@
-# Cryptography Book — Extracted Code
-
-Source PDF: `book-template.pdf` — *Cryptography with a Placement Oriented Approach* (Dr. Vikas Srivastava).
+*Cryptography with a Placement Oriented Approach* (Dr. Vikas Srivastava).
 
 ## Contents
 
@@ -16,12 +14,4 @@ Source PDF: `book-template.pdf` — *Cryptography with a Placement Oriented Appr
     quotation (Tecumseh's speech) and a full monoalphabetic substitution
     (Listings 1.12–1.18)
 
-## Notes
 
-- **Chapters 2–4** (Principles of Modern Cryptography, Stream Ciphers, Worked Out
-  Problems) contain **no separately labeled Python listings** in this edition of the
-  book — they are theory-only, so there is nothing to extract for those chapters.
-- The notebook has been test-executed end-to-end with no errors.
-- Open it in VS Code with the Jupyter extension using your global Python environment
-  (only standard library modules are used: `string`, `math`, `collections` — no
-  extra pip installs needed).
